@@ -5,7 +5,7 @@ export function CensorshipIndex() {
   const regions = [
     { name: "North America", level: "MEDIUM", color: "bg-yellow-500", shadow: "shadow-yellow-500/50" },
     { name: "Europe", level: "HIGH", color: "bg-orange-500", shadow: "shadow-orange-500/50" },
-    { name: "Asia", level: "EXTREME", color: "bg-destructive", shadow: "shadow-red-500/50" },
+    { name: "Asia", level: "MEDIUM", color: "bg-yellow-500", shadow: "shadow-yellow-500/50" },
     { name: "South America", level: "LOW", color: "bg-primary", shadow: "shadow-green-500/50" },
     { name: "Africa", level: "LOW", color: "bg-primary", shadow: "shadow-green-500/50" },
     { name: "Oceania", level: "MEDIUM", color: "bg-yellow-500", shadow: "shadow-yellow-500/50" }

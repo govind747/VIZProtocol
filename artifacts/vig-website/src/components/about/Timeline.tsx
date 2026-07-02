@@ -2,11 +2,36 @@ import React from 'react';
 
 export function Timeline() {
   const events = [
-    { date: "██/██/2025", title: "MOVIE RELEASED", desc: "Initial broadcast reaches the masses. Narrative seeds planted." },
-    { date: "██/██/2025", title: "CONTROVERSY IGNITES", desc: "Mainstream media flags content as 'unauthorized'. Attempted suppression begins." },
-    { date: "██/██/2025", title: "INTERNET EXPLODES", desc: "Streisand effect initiated. Discussion volume exceeds containment thresholds." },
-    { date: "██/██/2025", title: "MEMES CREATED", desc: "Weaponized autism deploys. Thousands of decentralized assets generated daily." },
-    { date: "██/██/2026", title: "VIG BORN", desc: "Financial embodiment of the movement established. Contract deployed." }
+    { 
+      date: "01/01/2025", 
+      title: "OPERATIONAL INCEPTION // REVENGE MATRIX", 
+      desc: "Director Uwe Boll announces a brutal revenge thriller in the tradition of 'Death Wish' and 'Dirty Harry', starring Armie Hammer. Inspired by a notorious 2016 Hamburg case where perpetrators walked free, the film targets the systemic failure of legacy law enforcement." 
+    },
+    { 
+      date: "27/01/2025", 
+      title: "PRINCIPAL PHOTOGRAPHY // THE SYSTEM INTERFERES", 
+      desc: "Filming officially commences under the radar in Zagreb, Croatia. Midway through production, corporate Hollywood titan Warner Bros. fires an emergency legal payload, sending a cease-and-desist letter forcing Boll to abandon the film's original title: 'The Dark Knight'." 
+    },
+    { 
+      date: "03/04/2025", 
+      title: "WRAP RECORDED // THE UNVEILING", 
+      desc: "Shooting schedule officially terminates. Defying corporate pressure, the project adapts, rebranding under a far more volatile title: CITIZEN VIGILANTE. Post-production processing begins under tight containment protocols." 
+    },
+    { 
+      date: "19/06/2026", 
+      title: "THE CONTINENTAL LEAK", 
+      desc: "Quiver Distribution secures North American rights and deploys the transmission across the United States. Concurrently, the German state apparatus denies age certification for 'promoting vigilantism,' effectively banning the film from wide commercial distribution and public advertisement." 
+    },
+    { 
+      date: "25/06/2026", 
+      title: "THE INTERNET EXPLODES // CULTURAL AMPLIFICATION", 
+      desc: "The Streisand Effect triggers globally. High-profile figures including Elon Musk, Alex Jones, and Libs of TikTok intercept and broadcast the film to the masses. Mainstream critics try to ignore it, but the decentralized internet sentiment is fully weaponized." 
+    },
+    { 
+      date: "02/07/2026", 
+      title: "VIG PROTOCOL PROTOX // SYSTEM OVERRIDE", 
+      desc: "In direct response to state censorship and media containment matrices, the $VIG cultural protocol is initiated on-chain. Financial embodiment of the movement established. Rejected by legacy institutions, listed everywhere on the network." 
+    }
   ];
 
   return (

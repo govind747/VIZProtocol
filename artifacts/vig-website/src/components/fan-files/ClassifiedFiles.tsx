@@ -9,8 +9,8 @@ import {
 
 export function ClassifiedFiles() {
   const files = [
-    { id: "001", title: "THE INITIAL SPARK", date: "██/██/2025", content: "Early monitoring detected a highly viral anomalous asset spreading across decentralised networks. Attempts to suppress standard social channels resulted in a 400% amplification of spread." },
-    { id: "002", title: "INSTITUTIONAL RESPONSE", date: "██/██/2025", content: "Directives were issued to all major tier-1 exchanges to block listing. The asset subsequently listed on 43 decentralized exchanges within 48 hours, rendering the embargo ineffective." },
+    { id: "001", title: "THE INITIAL SPARK", date: "██/██/2026", content: "Early monitoring detected a highly viral anomalous asset spreading across decentralised networks. Attempts to suppress standard social channels resulted in a 400% amplification of spread." },
+    { id: "002", title: "INSTITUTIONAL RESPONSE", date: "██/██/2026", content: "Directives were issued to all major tier-1 exchanges to block listing. The asset subsequently listed on 43 decentralized exchanges within 48 hours, rendering the embargo ineffective." },
     { id: "003", title: "MEMETIC CONTAGION", date: "██/██/2026", content: "The symbol '[VIG]' has been adopted by various disparate groups. It appears to function as a digital resistance marker. Containment probability: 0%." },
     { id: "004", title: "FINANCIAL IMPLICATIONS", date: "██/██/2026", content: "Retail capital flows have bypassed traditional gatekeepers. Total value locked exceeds projected risk models. Recommend immediate monitoring." }
   ];

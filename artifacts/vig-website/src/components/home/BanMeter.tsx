@@ -16,7 +16,7 @@ export function BanMeter() {
           <div className="absolute top-0 right-0 p-2 bg-destructive text-white text-xs font-bold font-mono">LIVE</div>
           
           <Meter label="Germany" percentage={96} color="bg-yellow-500" />
-          <Meter label="Twitter" percentage={67} color="bg-orange-500" />
+          <Meter label="Twitter" percentage={37} color="bg-orange-500" />
           <Meter label="Mainstream Media" percentage={100} color="bg-destructive" />
           
           <div className="pt-4 mt-4 border-t border-white/10">
