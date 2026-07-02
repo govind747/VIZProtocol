@@ -1,0 +1,541 @@
+🔥 Citizen Vigilante ($VIG)
+Slogan
+
+Rejected by Everyone. Listed Everywhere.
+
+Overall Design Language
+Theme
+
+Imagine the internet leaked a classified government dossier about a vigilante project.
+
+Everything feels like confidential military files.
+
+Visual Style
+Hacker Terminal UI
+CRT Screen Effect
+TV Static Noise
+VHS Scanlines
+Matrix Rain Background
+Red CLASSIFIED stamps
+Blacked-out paragraphs
+Government Confidential folders
+Typewriter fonts
+Digital glitches
+Military dossier aesthetic
+Warning popups
+Dark mode only
+Color Palette
+
+Background
+
+#070707
+
+Terminal Green
+
+#00FF66
+
+Danger Red
+
+#FF3131
+
+Paper White
+
+#F3F3F3
+
+Gray
+
+#808080
+Typography
+
+Heading
+
+Orbitron
+
+Body
+
+IBM Plex Mono
+
+Terminal
+
+JetBrains Mono
+Header (Every Page)
+
+Logo
+
+[VIG]
+
+Navigation
+
+Home
+
+About
+
+Vigilante
+
+Fan Files
+
+Terminal
+
+Buy VIG
+
+Right Side
+
+LIVE HOLDERS
+
+BUY NOW
+
+Sticky header
+
+Background blur
+
+Glitch on hover
+
+Footer (Every Page)
+-------------------------------------------------
+
+CLASSIFIED DOCUMENT
+
+This website is satire.
+
+Citizen Vigilante is a community meme project.
+
+Nothing on this website is financial advice.
+
+All leaked files are fictional.
+
+Access Level:
+██████████
+
+© 2026 VIG
+
+-------------------------------------------------
+
+Random glitch every 20 seconds.
+
+HOME PAGE
+Hero
+
+Huge CRT monitor.
+
+TV static.
+
+Government warning flashes.
+
+Then
+
+ACCESS LEVEL
+
+TOP SECRET
+
+PROJECT VIG
+
+STATUS
+
+REJECTED BY EVERYONE
+
+LISTED EVERYWHERE
+
+Big Buttons
+
+BUY VIG
+
+READ DOSSIER
+
+Background
+
+Government folders floating.
+
+Government Warning Popup
+
+Appears after 3 seconds.
+
+WARNING
+
+This website contains
+
+Unauthorized Memes
+
+Financial Degeneracy
+
+Extreme Community Participation
+
+Continue?
+
+YES
+
+ABSOLUTELY
+Ban Meter
+
+Animated meter.
+
+Germany
+
+█████████ 96%
+
+Twitter
+
+██████ 67%
+
+Mainstream Media
+
+██████████ 100%
+
+People Buying Anyway
+
+∞
+
+Needle shakes constantly.
+
+Leaked Documents
+
+Looks like FBI files.
+
+PROJECT VIG
+
+TOKEN SUPPLY
+
+████████████
+
+LOCKED
+
+██████
+
+LIQUIDITY
+
+█████████
+
+COMMUNITY
+
+██████████████
+
+Everything partially redacted.
+
+Hover reveals data.
+
+CTA
+
+Huge section
+
+THE INTERNET'S FAVORITE INVESTMENT STRATEGY
+
+STEP 1
+
+BAN IT
+
+↓
+
+STEP 2
+
+WATCH IT PUMP
+
+Background
+
+Matrix rain.
+
+ABOUT PAGE
+
+Hero
+
+TOO SPICY FOR APPROVAL
+
+Background
+
+Movie ticket stubs
+
+Cinema reels
+
+Broken VHS tapes
+
+CRT flicker
+
+Sections
+
+Timeline
+Movie Released
+
+↓
+
+Controversy
+
+↓
+
+Internet Explodes
+
+↓
+
+Memes Created
+
+↓
+
+VIG Born
+Rotten Tomatoes Parody
+CRITICS
+
+2%
+
+COMMUNITY
+
+999%
+
+MEMES
+
+∞%
+
+Animated tomato splat.
+
+Deleted Posts
+
+Cards
+
+This content isn't available.
+
+Deleted.
+
+Removed.
+
+Restricted.
+
+Hidden.
+
+Unavailable.
+
+Hover
+
+Content briefly appears.
+
+VIGILANTE PAGE
+
+Hero
+
+WHY WERE WE BANNED?
+
+Background
+
+Government hearing room.
+
+Documents flying.
+
+Static overlays.
+
+Buy Button
+
+Large animated button
+
+BUY VIG
+
+ACCESS GRANTED
+Tokenomics
+
+Looks classified.
+
+SUPPLY
+
+████████
+
+LIQUIDITY
+
+██████
+
+COMMUNITY
+
+██████████
+
+MARKETING
+
+███████
+Roadmap
+
+Military mission format.
+
+PHASE 1
+
+Leak Begins
+
+✓
+
+PHASE 2
+
+Community Mobilizes
+
+✓
+
+PHASE 3
+
+Global Listings
+
+...
+
+PHASE 4
+
+Take Over The Internet
+Memes Gallery
+
+Polaroid wall.
+
+TV glitch.
+
+Hover
+
+Image distorts.
+
+Holder Counter
+CURRENT AGENTS
+
+104,238
+
+Counter animates.
+
+FAQ
+
+Accordion.
+
+Questions begin with
+
+CLASSIFIED QUESTION
+
+Answers
+
+ACCESS GRANTED
+Community Links
+Telegram
+
+X
+
+DEX
+
+CoinMarketCap
+
+DexScreener
+
+Styled as classified file tabs.
+
+FAN FILES PAGE
+
+Looks like leaked intelligence archive.
+
+Hero
+
+COMMUNITY DOSSIERS
+
+Subtitle
+
+Publicly leaked evidence.
+
+Handle with caution.
+
+Government Warning Popup
+
+Randomly appears.
+
+UNAUTHORIZED ACCESS
+
+This file may contain
+
+Dangerous Levels of Memes.
+Live Holder Counter
+
+Large rolling numbers.
+
+Censorship Index
+
+Animated world map.
+
+Countries blinking.
+
+CENSORSHIP LEVEL
+
+LOW
+
+MEDIUM
+
+HIGH
+
+EXTREME
+Fake Classified Files
+
+Cards
+
+FILE 001
+
+FILE 002
+
+FILE 003
+
+FILE 004
+
+Click
+
+Opens fake documents.
+
+Easter Eggs
+
+Hidden
+
+Konami Code
+
+↑↑↓↓←→←→BA
+
+Unlocks
+
+DOGE wearing sunglasses
+
+CONFIDENTIAL MEME UNLOCKED
+Secret Terminal
+
+Button
+
+OPEN TERMINAL
+
+Route
+
+/terminal
+TERMINAL PAGE
+
+Full-screen Linux terminal.
+
+Commands
+
+help
+
+buy
+
+holders
+
+tokenomics
+
+roadmap
+
+price
+
+classified
+
+status
+
+join
+
+memes
+
+clear
+
+Typing animation.
+
+Green terminal.
+
+CRT effects.
+
+Animations
+VHS tracking errors
+Scanlines
+Cursor blinking
+Matrix rain
+Random glitch text
+Static TV transitions
+Red "CLASSIFIED" stamp animation
+Typewriter effects
+Folder opening animation
+Screen distortion on scroll
+Hover noise effects
+Loading screen styled as "Decrypting Files..."
+Overall Experience
+
+The site should feel like visitors have stumbled into a leaked government archive documenting "Project VIG." Every page reinforces the classified dossier aesthetic with glitch effects, terminal interactions, and satirical "censorship" messaging, while guiding users toward the community and token information in a cohesive, immersive experience.
