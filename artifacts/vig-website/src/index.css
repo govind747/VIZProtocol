@@ -36,32 +36,32 @@
 }
 
 :root, .dark {
-  /* Dark mode only */
-  --background: 0 0% 3%; /* #070707 */
-  --foreground: 0 0% 95%; /* #F3F3F3 */
+  /* Dark mode only — brightened */
+  --background: 0 0% 8%; /* #141414 */
+  --foreground: 0 0% 97%; /* near white */
   
-  --card: 0 0% 5%;
-  --card-foreground: 0 0% 95%;
+  --card: 0 0% 11%;
+  --card-foreground: 0 0% 97%;
   
-  --popover: 0 0% 5%;
-  --popover-foreground: 0 0% 95%;
+  --popover: 0 0% 11%;
+  --popover-foreground: 0 0% 97%;
   
   --primary: 144 100% 50%; /* #00FF66 */
-  --primary-foreground: 0 0% 3%;
+  --primary-foreground: 0 0% 5%;
   
-  --secondary: 0 0% 50%; /* #808080 */
-  --secondary-foreground: 0 0% 95%;
+  --secondary: 0 0% 55%; /* slightly brighter gray */
+  --secondary-foreground: 0 0% 97%;
   
-  --muted: 0 0% 15%;
-  --muted-foreground: 0 0% 50%;
+  --muted: 0 0% 20%;
+  --muted-foreground: 0 0% 65%;
   
   --accent: 144 100% 50%;
-  --accent-foreground: 0 0% 3%;
+  --accent-foreground: 0 0% 5%;
   
   --destructive: 0 100% 60%; /* #FF3131 */
-  --destructive-foreground: 0 0% 95%;
+  --destructive-foreground: 0 0% 97%;
 
-  --border: 0 0% 20%;
+  --border: 0 0% 28%;
   --input: 144 100% 50%;
   --ring: 144 100% 50%;
 

@@ -10,6 +10,7 @@ export function WarningPopup() {
       const timer = setTimeout(() => setIsOpen(true), 3000);
       return () => clearTimeout(timer);
     }
+    return undefined;
   }, []);
 
   const handleClose = () => {

@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { Switch, Route, Router as WouterRouter } from "wouter";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { Toaster } from "@/components/ui/toaster";
@@ -15,6 +15,8 @@ import { About } from "@/pages/about";
 import { Vigilante } from "@/pages/vigilante";
 import { FanFiles } from "@/pages/fan-files";
 import { Terminal } from "@/pages/terminal";
+import { Gallery } from "@/pages/gallery";
+import { Support } from "@/pages/support";
 import { Login } from "@/pages/login";
 import { Signup } from "@/pages/signup";
 import { ForgotPassword } from "@/pages/forgot-password";
@@ -30,6 +32,8 @@ function Router() {
       <Route path="/vigilante" component={Vigilante} />
       <Route path="/fan-files" component={FanFiles} />
       <Route path="/terminal" component={Terminal} />
+      <Route path="/gallery" component={Gallery} />
+      <Route path="/support" component={Support} />
       <Route path="/login" component={Login} />
       <Route path="/signup" component={Signup} />
       <Route path="/forgot-password" component={ForgotPassword} />
@@ -39,7 +43,6 @@ function Router() {
 }
 
 function App() {
-  // Force dark mode
   useEffect(() => {
     document.documentElement.classList.add("dark");
   }, []);
