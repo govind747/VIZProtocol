@@ -15,7 +15,7 @@ export function HeroSection() {
   return (
     <section className="relative min-h-[90vh] flex flex-col items-center justify-center overflow-hidden border-b border-white/10 p-4">
       {/* Background folders */}
-      <div className="absolute inset-0 opacity-[0.06] pointer-events-none">
+      <div className="absolute inset-0 opacity-[0.16] pointer-events-none">
         {Array.from({ length: 20 }).map((_, i) => (
           <div 
             key={i} 

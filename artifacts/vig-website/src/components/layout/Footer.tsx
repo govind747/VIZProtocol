@@ -12,7 +12,8 @@ export function Footer() {
   }, []);
 
   return (
-    <footer className={`border-t-4 border-double border-white/20 mt-20 bg-[#0a0a0a] relative overflow-hidden ${isGlitching ? 'opacity-80' : ''}`}>
+    /* FIXED: Removed mt-20 to eliminate the invisible top margin gap */
+    <footer className={`border-t-4 border-double border-white/20 bg-[#0a0a0a] relative overflow-hidden ${isGlitching ? 'opacity-80' : ''}`}>
       <div className="absolute top-0 left-0 w-full h-1 bg-primary/20"></div>
       
       <div className="container mx-auto px-4 py-12 relative z-10">
